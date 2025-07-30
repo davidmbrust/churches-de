@@ -7,7 +7,7 @@ import requests
 
 # Controls
 MAX_SAFE_RES = 5
-res = 3
+res = 4
 filled = True
 wireframe = False
 opacity = 0.1
